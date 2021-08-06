@@ -59,6 +59,7 @@ export const FooterBar = styled(Container)`
 	height: 50px;
 	display: flex;
 	align-items: center;
+	padding: 15px;
 	/* background-color: red; */
 	/*  */
 `;
