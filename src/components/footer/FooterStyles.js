@@ -55,5 +55,9 @@ export const IconContainer = styled.div`
 export const FooterBar = styled(Container)`
 	font-size: var(--fontSm);
 	font-weight: var(--fontNormal);
+	height: 50px;
+	display: flex;
+	align-items: center;
+	/* background-color: red; */
 	/*  */
 `;
