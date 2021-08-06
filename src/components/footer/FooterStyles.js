@@ -9,6 +9,7 @@ export const UniteCompanyLogo = styled.img`
 
 export const FooterContainer = styled.div`
 	background-color: #f6f6f6;
+	margin-top: 150px;
 	/*  */
 `;
 
